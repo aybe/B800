@@ -11,7 +11,13 @@ Renders B800 text to a BGRA buffer.
 
 **Showcase**
 
+Classic mode (un-expanded):
+
 ![](https://raw.githubusercontent.com/aybe/B800/master/sample.png)
+
+Expanded mode:
+
+![](https://raw.githubusercontent.com/aybe/B800/master/sample_expanded.png)
 
 **Example**
 
